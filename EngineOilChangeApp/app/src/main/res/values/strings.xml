@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EngineOilChangeApp</string>
+    <string name="textViewOilChange">Oil Change:</string>
+    <string name="oil_change_date">month/day/year</string>
+    <string name="label_mileage">Mileage at change:</string>
+    <string name="label_next_due">Next Change Due (miles):</string>
+    <string name="welcome_label">Howdy y\'all!</string>
+</resources>
